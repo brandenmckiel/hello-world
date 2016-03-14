@@ -1,2 +1,3 @@
 # hello-world
 a place where you store ideas, resources, or even share and discuss things with others.
+hello I am branden, I am leanring how to use github, hopefully this isnt a shitty ass fucking excuse of a website...
